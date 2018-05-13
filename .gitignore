@@ -1,23 +1,12 @@
-.DS_Store
-dist/electron/*
-dist/web/*
-build/*
-!build/icons
-node_modules/
-npm-debug.log
-npm-debug.log.*
-logs
-*.log
-thumbs.db
-!.gitkeep
-.npm
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# Yarn Integrity file
-.yarn-integrity
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 
-# dotenv environment variables file
-.env
-
-# Editor settings
-.idea
-*.iws
